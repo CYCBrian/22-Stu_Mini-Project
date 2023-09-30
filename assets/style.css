@@ -1,0 +1,95 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    background-color: darkgreen;
+    margin: 0px;
+}
+
+header{
+    text-align: right;
+    background-color: black;
+    margin: 0px;
+    padding: 5px;
+    position: fixed;
+    width: 100%;
+}
+
+.gpc{
+    display: inline;
+    background-color: black;
+    margin: 10px;
+    position: relative;
+    right: 20px;
+    font-size: 70%;
+}
+
+#C{
+    display: inline;
+    background-color: black;
+    margin: 10px;
+    position: relative;
+    right: 20px;
+    font-size: 70%;
+}
+
+.sec1{
+    text-align: center;
+    background-color: red;
+    margin: 0px;
+    padding: 10px;
+    margin-top: px;
+    font-size: 80%;
+}
+
+h1{
+    margin-top: 30px;
+    background-color: red;
+}
+
+img{
+height: 150px;
+width: 150px;
+margin-top: 0px;
+}
+
+#sec2{
+    background-color: blue;
+}
+
+h3{
+    background-color: blue;
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+}
+.form{
+    background-color: blue;
+    text-align: center;
+    font-size: 70%;
+}
+
+.name{
+    position: relative;
+    right: 1.5px;
+    background-color: blue;
+    margin: 3px;
+}
+
+.email{
+    background-color: blue;
+    margin: 3px;
+}
+
+#submit{
+    background-color: blue;
+    margin: 3px;
+    font-size: 90%;
+}
+
+#footertext{
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+    font-size: 70%;
+}
